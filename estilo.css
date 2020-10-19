@@ -1,0 +1,402 @@
+*{
+    box-sizing: border-box;
+}
+
+.logo{
+    top: 2%;
+    left: 5%;
+}
+
+.frase{
+    position: absolute;
+    height: 80px;
+    top: 2%;
+    left: 25%;
+    text-align: center;
+    padding: 1%;
+    background-color: #FFEDEC;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.gmail2{
+    position: absolute;
+    top: 0.2cm;
+    left: 220%;
+}
+
+.facebook2{
+    position: absolute;
+    top: 0.2cm;
+    left: 250%;
+}
+
+.instagram2{
+    position: absolute;
+    top: 1.9cm;
+    left: 224%;
+}
+
+.twitter2{
+    position: absolute;
+    top: 1.9cm;
+    left: 255%;
+}
+
+.barra1{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 14%;
+    left: 2%;
+    background-color: #FF0000;
+}
+
+.barra2{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 18%;
+    left: 2%;
+    background-color: #FF0000;
+}
+
+.header{
+    height: 180px;
+    background-color: #2F349C;
+}
+
+.menu{
+    width: 100%;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.menu1{
+    position: absolute;
+    top: 0.34cm;
+    height: 30px;
+    width: 23%;
+    text-align: center;
+    background-color: #FFEDEC;
+}
+
+.menu2{
+    position: absolute;
+    top: 0.34cm;
+    left: 26.5%;
+    height: 30px;
+    width: 23%;
+    text-align: center;
+    background-color: #FFEDEC;
+}
+
+.menu3{
+    position: absolute;
+    top: 0.34cm;
+    left: 51%;
+    height: 30px;
+    width: 23%;
+    text-align: center;
+    background-color: #FFEDEC;
+}
+
+.menu4{
+    position: absolute;
+    top: 0.34cm;
+    left: 75.5%;
+    height: 30px;
+    width: 23%;
+    text-align: center;
+    background-color: #FFEDEC;
+}
+
+.video1{
+    position: relative;
+    top: 5%;
+    left: 40%;
+}
+
+.barra3{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 41%;
+    left: 2%;
+    background-color: #2F9C4D;
+}
+
+.sobremi{
+    position: absolute;
+    height: 40px;
+    width: 30%;
+    text-align: center;    
+    top: 1cm;
+    left: 10%;
+    background-color:#FFEDEC;
+    border: 2px solid black;
+    border-radius: 1cm;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.info{
+    position: absolute;
+    height: 280px;
+    width: 77%;
+    top: 4cm;
+    left: 0%;
+    text-align: justify;
+    padding: 1%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 1cm;
+}
+
+.foto{
+    position: absolute;
+    top: 2cm;
+}
+
+.nombre{
+    position: absolute;
+    text-align: center;
+    height: 55px;
+    width: 80%;
+    top: 10.5cm;
+    background-color: rgb(3, 3, 3, 0.5);
+    padding: 0.5%;
+    border-radius: 1cm;
+    color: white;
+}
+
+.barra4{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 100%;
+    left: 2%;
+    background-color: #FF0000;
+}
+
+.mishabilidades{
+    position: absolute;
+    height: 40px;
+    width: 70%;
+    text-align: center;    
+    top: 15.5cm;
+    left: 10%;
+    background-color:#FFEDEC;
+    border: 2px solid black;
+    border-radius: 1cm;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.completo{
+    position: absolute;
+    top: 18cm;
+    left: 20%;
+}
+
+.habilidadesblandas{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 70%;
+    top: 17.7cm;
+    left: 2cm;
+    padding: 0.5%;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 1cm;
+}
+
+.lista1{
+    position: absolute;
+    top: 19.7cm;
+    left: 3cm;
+    text-align: center;
+    padding: 1%;
+    background-color: white;
+    border:2px solid black;
+    border-radius: 1cm;
+}
+
+.habilidadestecnicas{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 70%;
+    top: 17.7cm;
+    left: 5%;
+    padding: 0.5%;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 1cm;
+}
+
+.lista2{
+    position: absolute;
+    top: 19.7cm;
+    left: 18%;
+    text-align: center;
+    padding: 1%;
+    background-color: white;
+    border:2px solid black;
+    border-radius: 1cm;  
+}
+
+.barra5{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 170%;
+    left: 2%;
+    background-color: #2F9C4D; 
+}
+
+.trabajosrecientes{
+    position: absolute;
+    height: 40px;
+    width: 70%;
+    text-align: center;    
+    top: 32.5cm;
+    left: 10%;
+    background-color:#FFEDEC;
+    border: 2px solid black;
+    border-radius: 1cm;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.fotos{
+    position: absolute;
+    top: 35cm;
+    left: 20%;
+}
+
+.desc1{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 60%;
+    top: 42cm;
+    left: 20%;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 1cm;
+}
+
+.videos{
+    position: absolute;
+    top: 35cm;
+    left: 15%;
+}
+
+.desc2{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 60%;
+    top: 42cm;
+    left: 15%;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 1cm;
+}
+
+.ilustraciones{
+    position: absolute;
+    top: 35cm;
+    left: 15%;
+}
+
+.desc3{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 60%;
+    top: 42cm;
+    left: 15%;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 1cm;
+}
+
+.barra6{
+    position: absolute;
+    height: 5px;
+    width: 96%;
+    top: 220%;
+    left: 2%;
+    background-color: #FF0000;
+}
+
+.contactos{
+    position: absolute;
+    height: 40px;
+    width: 20%;
+    text-align: center;    
+    top: 53.5cm;
+    left: 37%;
+    background-color:#FFEDEC;
+    border: 2px solid black;
+    border-radius: 1cm;
+    font-family: 'Akronim', cursive;
+    color: #FF0000;
+}
+
+.video2{
+    position: absolute;
+    top: 55cm;
+    left: 0cm;
+}
+
+.info2{
+    position: absolute;
+    height: 250px;
+    width: 85%;
+    text-align: center;
+    padding: 1%;
+    top: 50cm;
+    left: 60%;
+    border: 1px solid black;
+    border-radius: 1cm;
+}
+
+.chaleco{
+    position: absolute;
+    top: 45.3cm;
+    left: 95%;
+}
+
+.gmail{
+    position: absolute;
+    top: 2cm;
+    left: 10%;
+}
+
+.facebook{
+    position: absolute;
+    top: 2cm;
+    left: 45%;
+}
+
+.instagram{
+    position: absolute;
+    top: 2cm;
+    left: 80%;
+}
+
+.twitter{
+    position: absolute;
+    top: 5cm;
+    left: 27%;
+}
+
+.whatsapp{
+    position: absolute;
+    top: 4.8cm;
+    left: 65%;
+}
